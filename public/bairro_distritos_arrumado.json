@@ -1,0 +1,1645 @@
+{
+  "fonte": "dados/bairro_distritos_arrumado.xlsx",
+  "distritos": {
+    "DISTRITO 1 - CENTRO": {
+      "nomeOficial": "DISTRITO 1 - CENTRO",
+      "populacao": 67846,
+      "domicilios": 26785,
+      "bairrosCount": 21
+    },
+    "DISTRITO 2 - ITAQUI-BACANGA": {
+      "nomeOficial": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 129889,
+      "domicilios": 48586,
+      "bairrosCount": 33
+    },
+    "DISTRITO 3 - COROADINHO": {
+      "nomeOficial": "DISTRITO 3 - COROADINHO",
+      "populacao": 115596,
+      "domicilios": 43394,
+      "bairrosCount": 32
+    },
+    "DISTRITO 8 - SÃO FRANCISCO": {
+      "nomeOficial": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 124236,
+      "domicilios": 51927,
+      "bairrosCount": 29
+    },
+    "DISTRITO 5 - BEQUIMÃO": {
+      "nomeOficial": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 97728,
+      "domicilios": 39337,
+      "bairrosCount": 24
+    },
+    "DISTRITO 4 - COHAB": {
+      "nomeOficial": "DISTRITO 4 - COHAB",
+      "populacao": 158904,
+      "domicilios": 63914,
+      "bairrosCount": 35
+    },
+    "DISTRITO 9 - CIDADE OPERÁRIA": {
+      "nomeOficial": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 140039,
+      "domicilios": 53293,
+      "bairrosCount": 28
+    },
+    "DISTRITO 7 - VILA ESPERANÇA": {
+      "nomeOficial": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 99357,
+      "domicilios": 39093,
+      "bairrosCount": 27
+    },
+    "DISTRITO 6 - TIRIRICAL": {
+      "nomeOficial": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 107568,
+      "domicilios": 41848,
+      "bairrosCount": 35
+    }
+  },
+  "bairros": {
+    "ALEMANHA": {
+      "nome": "ALEMANHA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 6184,
+      "domicilios": 2338
+    },
+    "ALTO DA ESPERANCA/RESIDENCIAL TAGUATUR": {
+      "nome": "ALTO DA ESPERANCA/RESIDENCIAL TAGUATUR",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3359,
+      "domicilios": 1087
+    },
+    "ALTO DO PARQUE TIMBIRAS": {
+      "nome": "ALTO DO PARQUE TIMBIRAS",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 715,
+      "domicilios": 255
+    },
+    "ALTOS DO CALHAU": {
+      "nome": "ALTOS DO CALHAU",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 872,
+      "domicilios": 304
+    },
+    "ANANANDIBA": {
+      "nome": "ANANANDIBA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1626,
+      "domicilios": 601
+    },
+    "ANGELIM": {
+      "nome": "ANGELIM",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 10069,
+      "domicilios": 4368
+    },
+    "ANIL": {
+      "nome": "ANIL",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 11715,
+      "domicilios": 4234
+    },
+    "ANJO DA GUARDA": {
+      "nome": "ANJO DA GUARDA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 19324,
+      "domicilios": 6876
+    },
+    "APEADOURO": {
+      "nome": "APEADOURO",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 2795,
+      "domicilios": 1168
+    },
+    "APICUM": {
+      "nome": "APICUM",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 608,
+      "domicilios": 328
+    },
+    "AREINHA": {
+      "nome": "AREINHA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 6263,
+      "domicilios": 2510
+    },
+    "AURORA": {
+      "nome": "AURORA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 6616,
+      "domicilios": 2437
+    },
+    "BAIRRO DE FATIMA": {
+      "nome": "BAIRRO DE FATIMA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 12024,
+      "domicilios": 4568
+    },
+    "BARRETO": {
+      "nome": "BARRETO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2649,
+      "domicilios": 1045
+    },
+    "BELA VISTA": {
+      "nome": "BELA VISTA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 1682,
+      "domicilios": 675
+    },
+    "BELIRA": {
+      "nome": "BELIRA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 853,
+      "domicilios": 315
+    },
+    "BEQUIMAO": {
+      "nome": "BEQUIMAO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 13102,
+      "domicilios": 5736
+    },
+    "BOM JESUS": {
+      "nome": "BOM JESUS",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 6272,
+      "domicilios": 2261
+    },
+    "BOM MILAGRE": {
+      "nome": "BOM MILAGRE",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 2613,
+      "domicilios": 991
+    },
+    "BONFIM": {
+      "nome": "BONFIM",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1403,
+      "domicilios": 573
+    },
+    "BRISA DO MAR": {
+      "nome": "BRISA DO MAR",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2145,
+      "domicilios": 781
+    },
+    "CAJUEIRO/CAMBOA DOS FRADES/MAE CHICA": {
+      "nome": "CAJUEIRO/CAMBOA DOS FRADES/MAE CHICA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1448,
+      "domicilios": 1165
+    },
+    "CALHAU": {
+      "nome": "CALHAU",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 3101,
+      "domicilios": 1609
+    },
+    "CAMBOA": {
+      "nome": "CAMBOA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 3966,
+      "domicilios": 1526
+    },
+    "CANTINHO DO CEU": {
+      "nome": "CANTINHO DO CEU",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1326,
+      "domicilios": 489
+    },
+    "CARACUEIRA": {
+      "nome": "CARACUEIRA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 719,
+      "domicilios": 244
+    },
+    "CARATATIUA": {
+      "nome": "CARATATIUA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 3827,
+      "domicilios": 1557
+    },
+    "CENTRO": {
+      "nome": "CENTRO",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 6644,
+      "domicilios": 3390
+    },
+    "CHACARA BRASIL": {
+      "nome": "CHACARA BRASIL",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 6101,
+      "domicilios": 2727
+    },
+    "CIDADE NOVA - GAPARA": {
+      "nome": "CIDADE NOVA - GAPARA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1326,
+      "domicilios": 516
+    },
+    "CIDADE NOVA/PARQUE ACELINO BRITO": {
+      "nome": "CIDADE NOVA/PARQUE ACELINO BRITO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1160,
+      "domicilios": 465
+    },
+    "CIDADE OLIMPICA": {
+      "nome": "CIDADE OLIMPICA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 27326,
+      "domicilios": 10393
+    },
+    "CIDADE OPERARIA": {
+      "nome": "CIDADE OPERARIA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 33672,
+      "domicilios": 11782
+    },
+    "CODOZINHO": {
+      "nome": "CODOZINHO",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1529,
+      "domicilios": 555
+    },
+    "COHAB ANIL I": {
+      "nome": "COHAB ANIL I",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 1809,
+      "domicilios": 634
+    },
+    "COHAB ANIL II": {
+      "nome": "COHAB ANIL II",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 707,
+      "domicilios": 272
+    },
+    "COHAB ANIL III": {
+      "nome": "COHAB ANIL III",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 3651,
+      "domicilios": 1290
+    },
+    "COHAB ANIL IV": {
+      "nome": "COHAB ANIL IV",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 3456,
+      "domicilios": 1299
+    },
+    "COHAFUMA": {
+      "nome": "COHAFUMA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 4025,
+      "domicilios": 1785
+    },
+    "COHAJAP": {
+      "nome": "COHAJAP",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 1498,
+      "domicilios": 607
+    },
+    "COHAJOLI": {
+      "nome": "COHAJOLI",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 3620,
+      "domicilios": 1529
+    },
+    "COHAMA": {
+      "nome": "COHAMA",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 8328,
+      "domicilios": 3496
+    },
+    "COHAPAM": {
+      "nome": "COHAPAM",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 828,
+      "domicilios": 294
+    },
+    "COHASERMA": {
+      "nome": "COHASERMA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 1360,
+      "domicilios": 509
+    },
+    "COHATRAC I, II, III, IV": {
+      "nome": "COHATRAC I, II, III, IV",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 14409,
+      "domicilios": 5045
+    },
+    "COHEB DO SACAVEM": {
+      "nome": "COHEB DO SACAVEM",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1993,
+      "domicilios": 680
+    },
+    "CONJUNTO ALEXANDRA TAVARES/RESIDENCIAL TIRADENTES": {
+      "nome": "CONJUNTO ALEXANDRA TAVARES/RESIDENCIAL TIRADENTES",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 5712,
+      "domicilios": 2215
+    },
+    "CONJUNTO DOM SEBASTIAO": {
+      "nome": "CONJUNTO DOM SEBASTIAO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1336,
+      "domicilios": 472
+    },
+    "CONJUNTO HABITACIONAL TURU/JARDIM ATLANTICO": {
+      "nome": "CONJUNTO HABITACIONAL TURU/JARDIM ATLANTICO",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2873,
+      "domicilios": 991
+    },
+    "CONJUNTO HABITAR": {
+      "nome": "CONJUNTO HABITAR",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 817,
+      "domicilios": 308
+    },
+    "CONJUNTO JAGUAREMA": {
+      "nome": "CONJUNTO JAGUAREMA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1058,
+      "domicilios": 343
+    },
+    "CONJUNTO MANOEL BECKMAN": {
+      "nome": "CONJUNTO MANOEL BECKMAN",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 655,
+      "domicilios": 238
+    },
+    "CONJUNTO RIO ANIL": {
+      "nome": "CONJUNTO RIO ANIL",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 2400,
+      "domicilios": 918
+    },
+    "CONJUNTO SANTOS DUMONT": {
+      "nome": "CONJUNTO SANTOS DUMONT",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 732,
+      "domicilios": 256
+    },
+    "CONJUNTO SAO RAIMUNDO": {
+      "nome": "CONJUNTO SAO RAIMUNDO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 10472,
+      "domicilios": 3913
+    },
+    "CONJUNTO VINHAIS": {
+      "nome": "CONJUNTO VINHAIS",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 5393,
+      "domicilios": 1920
+    },
+    "COQUEIRO/JUCARAL": {
+      "nome": "COQUEIRO/JUCARAL",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1890,
+      "domicilios": 693
+    },
+    "COQUILHO": {
+      "nome": "COQUILHO",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 664,
+      "domicilios": 280
+    },
+    "COREIA": {
+      "nome": "COREIA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 2350,
+      "domicilios": 901
+    },
+    "COROADINHO": {
+      "nome": "COROADINHO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 14993,
+      "domicilios": 5374
+    },
+    "COROADO": {
+      "nome": "COROADO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 4679,
+      "domicilios": 1774
+    },
+    "CRUZEIRO DE SANTA BARBARA": {
+      "nome": "CRUZEIRO DE SANTA BARBARA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 3897,
+      "domicilios": 1563
+    },
+    "CRUZEIRO DO ANIL": {
+      "nome": "CRUZEIRO DO ANIL",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 8995,
+      "domicilios": 3261
+    },
+    "CUTIM ANIL": {
+      "nome": "CUTIM ANIL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 633,
+      "domicilios": 253
+    },
+    "DESTERRO": {
+      "nome": "DESTERRO",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 433,
+      "domicilios": 216
+    },
+    "DIAMANTE": {
+      "nome": "DIAMANTE",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1290,
+      "domicilios": 501
+    },
+    "DIVINEIA": {
+      "nome": "DIVINEIA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 10724,
+      "domicilios": 3800
+    },
+    "ESTIVA": {
+      "nome": "ESTIVA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 2959,
+      "domicilios": 1202
+    },
+    "FABRIL": {
+      "nome": "FABRIL",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1536,
+      "domicilios": 612
+    },
+    "FE EM DEUS": {
+      "nome": "FE EM DEUS",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 3672,
+      "domicilios": 1321
+    },
+    "FILIPINHO": {
+      "nome": "FILIPINHO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2762,
+      "domicilios": 1109
+    },
+    "FORQUILHA": {
+      "nome": "FORQUILHA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 12887,
+      "domicilios": 5837
+    },
+    "FUMACE": {
+      "nome": "FUMACE",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 5371,
+      "domicilios": 1782
+    },
+    "GANCHARIA": {
+      "nome": "GANCHARIA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3337,
+      "domicilios": 1187
+    },
+    "GAPARA": {
+      "nome": "GAPARA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3194,
+      "domicilios": 1290
+    },
+    "GOIABAL": {
+      "nome": "GOIABAL",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1965,
+      "domicilios": 822
+    },
+    "IGARAU/CALEMBE/NOVO HORIZONTE": {
+      "nome": "IGARAU/CALEMBE/NOVO HORIZONTE",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1420,
+      "domicilios": 630
+    },
+    "ILHA DE TAUA-MIRIM": {
+      "nome": "ILHA DE TAUA-MIRIM",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 687,
+      "domicilios": 378
+    },
+    "ILHINHA": {
+      "nome": "ILHINHA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 4844,
+      "domicilios": 1907
+    },
+    "IPASE": {
+      "nome": "IPASE",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1634,
+      "domicilios": 588
+    },
+    "IPEM SAO CRISTOVAO": {
+      "nome": "IPEM SAO CRISTOVAO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 2149,
+      "domicilios": 750
+    },
+    "IPEM TURU": {
+      "nome": "IPEM TURU",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 714,
+      "domicilios": 238
+    },
+    "ITAPERA": {
+      "nome": "ITAPERA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1325,
+      "domicilios": 522
+    },
+    "ITAPIRACO": {
+      "nome": "ITAPIRACO",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 3040,
+      "domicilios": 1264
+    },
+    "ITAQUI": {
+      "nome": "ITAQUI",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1344,
+      "domicilios": 450
+    },
+    "IVAR SALDANHA": {
+      "nome": "IVAR SALDANHA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 4339,
+      "domicilios": 1733
+    },
+    "JAMBEIRO": {
+      "nome": "JAMBEIRO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 748,
+      "domicilios": 288
+    },
+    "JAPAO": {
+      "nome": "JAPAO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1300,
+      "domicilios": 499
+    },
+    "JARACATY": {
+      "nome": "JARACATY",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2324,
+      "domicilios": 1038
+    },
+    "JARDIM AMERICA": {
+      "nome": "JARDIM AMERICA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 3652,
+      "domicilios": 1295
+    },
+    "JARDIM AMERICA CENTRAL": {
+      "nome": "JARDIM AMERICA CENTRAL",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1910,
+      "domicilios": 660
+    },
+    "JARDIM CONCEICAO": {
+      "nome": "JARDIM CONCEICAO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1288,
+      "domicilios": 466
+    },
+    "JARDIM DAS MARGARIDAS": {
+      "nome": "JARDIM DAS MARGARIDAS",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 878,
+      "domicilios": 362
+    },
+    "JARDIM DE FATIMA": {
+      "nome": "JARDIM DE FATIMA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 626,
+      "domicilios": 302
+    },
+    "JARDIM ELDORADO": {
+      "nome": "JARDIM ELDORADO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 4191,
+      "domicilios": 1781
+    },
+    "JARDIM LISBOA/RESIDENCIAL SAO PAULO": {
+      "nome": "JARDIM LISBOA/RESIDENCIAL SAO PAULO",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1222,
+      "domicilios": 463
+    },
+    "JARDIM SAO CRISTOVAO I": {
+      "nome": "JARDIM SAO CRISTOVAO I",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 9818,
+      "domicilios": 3889
+    },
+    "JARDIM SAO CRISTOVAO II": {
+      "nome": "JARDIM SAO CRISTOVAO II",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 7981,
+      "domicilios": 3175
+    },
+    "JARDIM SAO JOSE": {
+      "nome": "JARDIM SAO JOSE",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 616,
+      "domicilios": 215
+    },
+    "JARDIM SAO RAIMUNDO": {
+      "nome": "JARDIM SAO RAIMUNDO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1404,
+      "domicilios": 524
+    },
+    "JOAO DE DEUS": {
+      "nome": "JOAO DE DEUS",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 7911,
+      "domicilios": 2871
+    },
+    "JOAO PAULO": {
+      "nome": "JOAO PAULO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 7442,
+      "domicilios": 3008
+    },
+    "JORDOA": {
+      "nome": "JORDOA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 3016,
+      "domicilios": 1164
+    },
+    "LIBERDADE": {
+      "nome": "LIBERDADE",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 14774,
+      "domicilios": 5264
+    },
+    "LIRA": {
+      "nome": "LIRA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 3480,
+      "domicilios": 1397
+    },
+    "LOTEAMENTO ALTEROSA": {
+      "nome": "LOTEAMENTO ALTEROSA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 9083,
+      "domicilios": 3990
+    },
+    "LOTEAMENTO CANAA": {
+      "nome": "LOTEAMENTO CANAA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 691,
+      "domicilios": 296
+    },
+    "LOTEAMENTO VALEAN": {
+      "nome": "LOTEAMENTO VALEAN",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1292,
+      "domicilios": 619
+    },
+    "MADRE DEUS": {
+      "nome": "MADRE DEUS",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1377,
+      "domicilios": 549
+    },
+    "MAIOBINHA": {
+      "nome": "MAIOBINHA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 730,
+      "domicilios": 287
+    },
+    "MANGUE SECO/VILA NATAL": {
+      "nome": "MANGUE SECO/VILA NATAL",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 2050,
+      "domicilios": 761
+    },
+    "MARACANA": {
+      "nome": "MARACANA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 18134,
+      "domicilios": 7430
+    },
+    "MARANHAO NOVO": {
+      "nome": "MARANHAO NOVO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1368,
+      "domicilios": 545
+    },
+    "MATA DO ITAPERA/VILA CABRAL/VILA PROGRESSO": {
+      "nome": "MATA DO ITAPERA/VILA CABRAL/VILA PROGRESSO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 2869,
+      "domicilios": 1063
+    },
+    "MATO GROSSO/COQUILHO 2": {
+      "nome": "MATO GROSSO/COQUILHO 2",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1734,
+      "domicilios": 764
+    },
+    "MATOES": {
+      "nome": "MATOES",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2971,
+      "domicilios": 1405
+    },
+    "MONTE CASTELO": {
+      "nome": "MONTE CASTELO",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 5337,
+      "domicilios": 2067
+    },
+    "NOVA BETEL": {
+      "nome": "NOVA BETEL",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1950,
+      "domicilios": 734
+    },
+    "NOVO ANGELIM": {
+      "nome": "NOVO ANGELIM",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 4859,
+      "domicilios": 2074
+    },
+    "OLHO D'AGUA": {
+      "nome": "OLHO D'AGUA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 8381,
+      "domicilios": 3077
+    },
+    "OUTEIRO DA CRUZ": {
+      "nome": "OUTEIRO DA CRUZ",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2978,
+      "domicilios": 1198
+    },
+    "PARQUE AMAZONAS": {
+      "nome": "PARQUE AMAZONAS",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1555,
+      "domicilios": 559
+    },
+    "PARQUE ATHENAS": {
+      "nome": "PARQUE ATHENAS",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2861,
+      "domicilios": 1256
+    },
+    "PARQUE ATLANTICO": {
+      "nome": "PARQUE ATLANTICO",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 1096,
+      "domicilios": 438
+    },
+    "PARQUE AURORA": {
+      "nome": "PARQUE AURORA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2043,
+      "domicilios": 786
+    },
+    "PARQUE DOS NOBRES": {
+      "nome": "PARQUE DOS NOBRES",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1677,
+      "domicilios": 575
+    },
+    "PARQUE DOS SABIAS": {
+      "nome": "PARQUE DOS SABIAS",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1214,
+      "domicilios": 467
+    },
+    "PARQUE GUANABARA": {
+      "nome": "PARQUE GUANABARA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 432,
+      "domicilios": 172
+    },
+    "PARQUE NICE LOBAO": {
+      "nome": "PARQUE NICE LOBAO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2307,
+      "domicilios": 893
+    },
+    "PARQUE PINDORAMA": {
+      "nome": "PARQUE PINDORAMA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 3823,
+      "domicilios": 1533
+    },
+    "PARQUE SHALON": {
+      "nome": "PARQUE SHALON",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2084,
+      "domicilios": 907
+    },
+    "PARQUE TIMBIRAS": {
+      "nome": "PARQUE TIMBIRAS",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1282,
+      "domicilios": 459
+    },
+    "PARQUE UNIVERSITARIO": {
+      "nome": "PARQUE UNIVERSITARIO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 764,
+      "domicilios": 251
+    },
+    "PEDRINHAS": {
+      "nome": "PEDRINHAS",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 6629,
+      "domicilios": 1433
+    },
+    "PIANCO": {
+      "nome": "PIANCO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1479,
+      "domicilios": 580
+    },
+    "PLANALTO ANIL": {
+      "nome": "PLANALTO ANIL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 649,
+      "domicilios": 264
+    },
+    "PLANALTO ANIL I": {
+      "nome": "PLANALTO ANIL I",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 450,
+      "domicilios": 163
+    },
+    "PLANALTO ANIL II": {
+      "nome": "PLANALTO ANIL II",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2170,
+      "domicilios": 883
+    },
+    "PLANALTO ANIL III": {
+      "nome": "PLANALTO ANIL III",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 1543,
+      "domicilios": 619
+    },
+    "PLANALTO ANIL IV": {
+      "nome": "PLANALTO ANIL IV",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 1225,
+      "domicilios": 501
+    },
+    "PLANALTO TURU I": {
+      "nome": "PLANALTO TURU I",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 876,
+      "domicilios": 338
+    },
+    "PLANALTO TURU II": {
+      "nome": "PLANALTO TURU II",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 563,
+      "domicilios": 197
+    },
+    "PLANALTO TURU III": {
+      "nome": "PLANALTO TURU III",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 2578,
+      "domicilios": 1119
+    },
+    "PLANALTO VINHAIS I": {
+      "nome": "PLANALTO VINHAIS I",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 919,
+      "domicilios": 345
+    },
+    "PLANALTO VINHAIS II": {
+      "nome": "PLANALTO VINHAIS II",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2524,
+      "domicilios": 936
+    },
+    "PONTA D'AREIA": {
+      "nome": "PONTA D'AREIA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 8433,
+      "domicilios": 3645
+    },
+    "PONTA DO FAROL": {
+      "nome": "PONTA DO FAROL",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 4795,
+      "domicilios": 2305
+    },
+    "PONTAL DA ILHA/VILA ALEXANDRA TAVARES": {
+      "nome": "PONTAL DA ILHA/VILA ALEXANDRA TAVARES",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 4456,
+      "domicilios": 1906
+    },
+    "PORTELINHA": {
+      "nome": "PORTELINHA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 476,
+      "domicilios": 164
+    },
+    "PORTO GRANDE/TAHIN/RIO DOS CACHORROS": {
+      "nome": "PORTO GRANDE/TAHIN/RIO DOS CACHORROS",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1906,
+      "domicilios": 749
+    },
+    "POVOADO ARGOLA E TAMBOR": {
+      "nome": "POVOADO ARGOLA E TAMBOR",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1062,
+      "domicilios": 420
+    },
+    "PRIMAVERA": {
+      "nome": "PRIMAVERA",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 1836,
+      "domicilios": 647
+    },
+    "PRIMAVERA-COHATRAC": {
+      "nome": "PRIMAVERA-COHATRAC",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 1924,
+      "domicilios": 669
+    },
+    "QUEBRA POTE/ARRAIAL/TINDIBA": {
+      "nome": "QUEBRA POTE/ARRAIAL/TINDIBA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 3996,
+      "domicilios": 1830
+    },
+    "QUINTANDINHA": {
+      "nome": "QUINTANDINHA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 5964,
+      "domicilios": 2564
+    },
+    "QUINTAS DO CALHAU": {
+      "nome": "QUINTAS DO CALHAU",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2875,
+      "domicilios": 1258
+    },
+    "RADIONAL": {
+      "nome": "RADIONAL",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1607,
+      "domicilios": 550
+    },
+    "RECANTO DO VINHAIS": {
+      "nome": "RECANTO DO VINHAIS",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 10360,
+      "domicilios": 4070
+    },
+    "RECANTO DOS NOBRES": {
+      "nome": "RECANTO DOS NOBRES",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2351,
+      "domicilios": 1042
+    },
+    "RECANTO DOS PASSAROS": {
+      "nome": "RECANTO DOS PASSAROS",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1522,
+      "domicilios": 519
+    },
+    "RECANTO DOS SIGNOS": {
+      "nome": "RECANTO DOS SIGNOS",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 2191,
+      "domicilios": 815
+    },
+    "RECANTO FIALHO": {
+      "nome": "RECANTO FIALHO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 4363,
+      "domicilios": 1867
+    },
+    "REDENCAO": {
+      "nome": "REDENCAO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 612,
+      "domicilios": 245
+    },
+    "RENASCENCA": {
+      "nome": "RENASCENCA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 18691,
+      "domicilios": 8102
+    },
+    "RESIDENCIAL 2000/MATINHA/VILA MARACUJA": {
+      "nome": "RESIDENCIAL 2000/MATINHA/VILA MARACUJA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 6615,
+      "domicilios": 2825
+    },
+    "RESIDENCIAL ALBINO SOEIRO": {
+      "nome": "RESIDENCIAL ALBINO SOEIRO",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 6241,
+      "domicilios": 2999
+    },
+    "RESIDENCIAL AMERICA DO NORTE": {
+      "nome": "RESIDENCIAL AMERICA DO NORTE",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1693,
+      "domicilios": 625
+    },
+    "RESIDENCIAL ANA JANSEN": {
+      "nome": "RESIDENCIAL ANA JANSEN",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3388,
+      "domicilios": 1203
+    },
+    "RESIDENCIAL ANA JANSEN - ILHINHA": {
+      "nome": "RESIDENCIAL ANA JANSEN - ILHINHA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 3388,
+      "domicilios": 1203
+    },
+    "RESIDENCIAL CANAA": {
+      "nome": "RESIDENCIAL CANAA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 580,
+      "domicilios": 170
+    },
+    "RESIDENCIAL ESPERANCA": {
+      "nome": "RESIDENCIAL ESPERANCA",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 539,
+      "domicilios": 201
+    },
+    "RESIDENCIAL JOAO ALBERTO": {
+      "nome": "RESIDENCIAL JOAO ALBERTO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 3080,
+      "domicilios": 1209
+    },
+    "RESIDENCIAL JOSE REINALDO TAVARES": {
+      "nome": "RESIDENCIAL JOSE REINALDO TAVARES",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1772,
+      "domicilios": 631
+    },
+    "RESIDENCIAL LUIZ BACELAR/RESIDENCIAL VILA MARANHAO": {
+      "nome": "RESIDENCIAL LUIZ BACELAR/RESIDENCIAL VILA MARANHAO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 5475,
+      "domicilios": 3009
+    },
+    "RESIDENCIAL NESTOR/PARAISO VERDE": {
+      "nome": "RESIDENCIAL NESTOR/PARAISO VERDE",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1973,
+      "domicilios": 804
+    },
+    "RESIDENCIAL PARAISO/RESIDENCIAL PIANCO": {
+      "nome": "RESIDENCIAL PARAISO/RESIDENCIAL PIANCO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 9684,
+      "domicilios": 3888
+    },
+    "RESIDENCIAL PINHEIROS": {
+      "nome": "RESIDENCIAL PINHEIROS",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 2997,
+      "domicilios": 1101
+    },
+    "RESIDENCIAL PRIMAVERA": {
+      "nome": "RESIDENCIAL PRIMAVERA",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 948,
+      "domicilios": 374
+    },
+    "RESIDENCIAL PRIMAVERA/VILA SAO JOAO DA BOA VISTA": {
+      "nome": "RESIDENCIAL PRIMAVERA/VILA SAO JOAO DA BOA VISTA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1283,
+      "domicilios": 530
+    },
+    "RESIDENCIAL RESENDE/PARQUE DAS PALMEIRAS": {
+      "nome": "RESIDENCIAL RESENDE/PARQUE DAS PALMEIRAS",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3326,
+      "domicilios": 1253
+    },
+    "RESIDENCIAL SANTOS DUMONT": {
+      "nome": "RESIDENCIAL SANTOS DUMONT",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1042,
+      "domicilios": 396
+    },
+    "RESIDENCIAL SAO DOMINGOS": {
+      "nome": "RESIDENCIAL SAO DOMINGOS",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 306,
+      "domicilios": 115
+    },
+    "RESIDENCIAL TURQUESA": {
+      "nome": "RESIDENCIAL TURQUESA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 768,
+      "domicilios": 290
+    },
+    "RETIRO NATAL": {
+      "nome": "RETIRO NATAL",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 3931,
+      "domicilios": 1547
+    },
+    "RIBEIRA/SAO BRUNO/TINAI": {
+      "nome": "RIBEIRA/SAO BRUNO/TINAI",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 7207,
+      "domicilios": 3457
+    },
+    "RIO GRANDE": {
+      "nome": "RIO GRANDE",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 2550,
+      "domicilios": 940
+    },
+    "SA VIANA": {
+      "nome": "SA VIANA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 7455,
+      "domicilios": 2749
+    },
+    "SACAVEM": {
+      "nome": "SACAVEM",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 6040,
+      "domicilios": 2172
+    },
+    "SALINA DO SACAVEM": {
+      "nome": "SALINA DO SACAVEM",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 3349,
+      "domicilios": 1184
+    },
+    "SANTA BARBARA": {
+      "nome": "SANTA BARBARA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 3548,
+      "domicilios": 1384
+    },
+    "SANTA CLARA": {
+      "nome": "SANTA CLARA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 5456,
+      "domicilios": 1997
+    },
+    "SANTA CRUZ": {
+      "nome": "SANTA CRUZ",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 5837,
+      "domicilios": 2247
+    },
+    "SANTA EFIGENIA": {
+      "nome": "SANTA EFIGENIA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 6904,
+      "domicilios": 2469
+    },
+    "SANTA EULALIA": {
+      "nome": "SANTA EULALIA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2513,
+      "domicilios": 1110
+    },
+    "SANTA HELENA/FORMIGUEIRO": {
+      "nome": "SANTA HELENA/FORMIGUEIRO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 346,
+      "domicilios": 143
+    },
+    "SANTA ROSA": {
+      "nome": "SANTA ROSA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 3796,
+      "domicilios": 1557
+    },
+    "SANTO ANTONIO": {
+      "nome": "SANTO ANTONIO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 2289,
+      "domicilios": 975
+    },
+    "SAO BERNARDO": {
+      "nome": "SAO BERNARDO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 6314,
+      "domicilios": 2405
+    },
+    "SAO CRISTOVAO/TIRIRICAL": {
+      "nome": "SAO CRISTOVAO/TIRIRICAL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 8976,
+      "domicilios": 3675
+    },
+    "SAO FRANCISCO": {
+      "nome": "SAO FRANCISCO",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 14977,
+      "domicilios": 5852
+    },
+    "SAO JOAQUIM": {
+      "nome": "SAO JOAQUIM",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 915,
+      "domicilios": 408
+    },
+    "SAO RAIMUNDO - ANJO DA GUARDA": {
+      "nome": "SAO RAIMUNDO - ANJO DA GUARDA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1608,
+      "domicilios": 643
+    },
+    "SAO RAIMUNDO MOTOR/VILA APARECIDA/RIO DO MEIO": {
+      "nome": "SAO RAIMUNDO MOTOR/VILA APARECIDA/RIO DO MEIO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1002,
+      "domicilios": 384
+    },
+    "SITIO LEAL": {
+      "nome": "SITIO LEAL",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 680,
+      "domicilios": 282
+    },
+    "SITIO PIRAPORA": {
+      "nome": "SITIO PIRAPORA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 7434,
+      "domicilios": 3185
+    },
+    "SOL E MAR": {
+      "nome": "SOL E MAR",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 3829,
+      "domicilios": 1379
+    },
+    "TAJACUABA/CAJUPARY/RESIDENCIAL NOVA VIDA": {
+      "nome": "TAJACUABA/CAJUPARY/RESIDENCIAL NOVA VIDA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 4148,
+      "domicilios": 2072
+    },
+    "TAJIPURU": {
+      "nome": "TAJIPURU",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 308,
+      "domicilios": 121
+    },
+    "TAMANCAO": {
+      "nome": "TAMANCAO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 559,
+      "domicilios": 207
+    },
+    "TIBIRI": {
+      "nome": "TIBIRI",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 4239,
+      "domicilios": 1583
+    },
+    "TIBIRIZINHO": {
+      "nome": "TIBIRIZINHO",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1913,
+      "domicilios": 680
+    },
+    "TUNEL DO SACAVEM": {
+      "nome": "TUNEL DO SACAVEM",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 588,
+      "domicilios": 226
+    },
+    "TURU": {
+      "nome": "TURU",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 26369,
+      "domicilios": 13082
+    },
+    "VICENTE FIALHO": {
+      "nome": "VICENTE FIALHO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 2648,
+      "domicilios": 1201
+    },
+    "VILA 07 DE SETEMBRO": {
+      "nome": "VILA 07 DE SETEMBRO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 1641,
+      "domicilios": 618
+    },
+    "VILA AIRTON SENA": {
+      "nome": "VILA AIRTON SENA",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1750,
+      "domicilios": 715
+    },
+    "VILA AMERICA": {
+      "nome": "VILA AMERICA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 514,
+      "domicilios": 188
+    },
+    "VILA APACO": {
+      "nome": "VILA APACO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 3688,
+      "domicilios": 1454
+    },
+    "VILA ARIRI/VILA 07 DE SETEMBRO": {
+      "nome": "VILA ARIRI/VILA 07 DE SETEMBRO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 5230,
+      "domicilios": 1884
+    },
+    "VILA BACANGA": {
+      "nome": "VILA BACANGA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3112,
+      "domicilios": 1153
+    },
+    "VILA BESSA": {
+      "nome": "VILA BESSA",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 557,
+      "domicilios": 231
+    },
+    "VILA BRASIL": {
+      "nome": "VILA BRASIL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 5956,
+      "domicilios": 2080
+    },
+    "VILA CASCAVEL": {
+      "nome": "VILA CASCAVEL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 4737,
+      "domicilios": 1895
+    },
+    "VILA CONCEICAO - ANIL": {
+      "nome": "VILA CONCEICAO - ANIL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 3658,
+      "domicilios": 1332
+    },
+    "VILA CONCEICAO - CALHAU": {
+      "nome": "VILA CONCEICAO - CALHAU",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 3449,
+      "domicilios": 1388
+    },
+    "VILA CONCEICAO - COROADINHO": {
+      "nome": "VILA CONCEICAO - COROADINHO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2702,
+      "domicilios": 960
+    },
+    "VILA CRISTALINA": {
+      "nome": "VILA CRISTALINA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 2014,
+      "domicilios": 854
+    },
+    "VILA CRUZADO": {
+      "nome": "VILA CRUZADO",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 647,
+      "domicilios": 239
+    },
+    "VILA DOM LUIS": {
+      "nome": "VILA DOM LUIS",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1100,
+      "domicilios": 448
+    },
+    "VILA DOS FRADES": {
+      "nome": "VILA DOS FRADES",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 6608,
+      "domicilios": 2374
+    },
+    "VILA DOS NOBRES": {
+      "nome": "VILA DOS NOBRES",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 3161,
+      "domicilios": 1142
+    },
+    "VILA EMBRATEL": {
+      "nome": "VILA EMBRATEL",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 17311,
+      "domicilios": 6213
+    },
+    "VILA ESPERANCA": {
+      "nome": "VILA ESPERANCA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 6200,
+      "domicilios": 2238
+    },
+    "VILA FUNIL": {
+      "nome": "VILA FUNIL",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 230,
+      "domicilios": 97
+    },
+    "VILA INDUSTRIAL": {
+      "nome": "VILA INDUSTRIAL",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 3630,
+      "domicilios": 1316
+    },
+    "VILA ISABEL": {
+      "nome": "VILA ISABEL",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 4534,
+      "domicilios": 1687
+    },
+    "VILA ISABEL CAFETEIRA": {
+      "nome": "VILA ISABEL CAFETEIRA",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 7372,
+      "domicilios": 2990
+    },
+    "VILA ITAMAR": {
+      "nome": "VILA ITAMAR",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 6945,
+      "domicilios": 2499
+    },
+    "VILA JANAINA": {
+      "nome": "VILA JANAINA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 12392,
+      "domicilios": 4724
+    },
+    "VILA JENIPARANA": {
+      "nome": "VILA JENIPARANA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 2947,
+      "domicilios": 1104
+    },
+    "VILA LOBAO": {
+      "nome": "VILA LOBAO",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 1987,
+      "domicilios": 831
+    },
+    "VILA LUIZAO": {
+      "nome": "VILA LUIZAO",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 11233,
+      "domicilios": 3851
+    },
+    "VILA MAGRIL": {
+      "nome": "VILA MAGRIL",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 2354,
+      "domicilios": 978
+    },
+    "VILA MARANHAO": {
+      "nome": "VILA MARANHAO",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 5113,
+      "domicilios": 2059
+    },
+    "VILA MAURO FECURY I/ILHA DA PAZ": {
+      "nome": "VILA MAURO FECURY I/ILHA DA PAZ",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 3753,
+      "domicilios": 1401
+    },
+    "VILA MAURO FECURY II": {
+      "nome": "VILA MAURO FECURY II",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 4333,
+      "domicilios": 1559
+    },
+    "VILA MENINO JESUS DE PRAGA": {
+      "nome": "VILA MENINO JESUS DE PRAGA",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 663,
+      "domicilios": 267
+    },
+    "VILA NATAL": {
+      "nome": "VILA NATAL",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 594,
+      "domicilios": 224
+    },
+    "VILA NOVA": {
+      "nome": "VILA NOVA",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 2390,
+      "domicilios": 892
+    },
+    "VILA NOVA REPUBLICA": {
+      "nome": "VILA NOVA REPUBLICA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 1863,
+      "domicilios": 715
+    },
+    "VILA PALMEIRA": {
+      "nome": "VILA PALMEIRA",
+      "distrito": "DISTRITO 5 - BEQUIMÃO",
+      "populacao": 11628,
+      "domicilios": 4329
+    },
+    "VILA PASSOS": {
+      "nome": "VILA PASSOS",
+      "distrito": "DISTRITO 1 - CENTRO",
+      "populacao": 1952,
+      "domicilios": 746
+    },
+    "VILA PROGRESSO": {
+      "nome": "VILA PROGRESSO",
+      "distrito": "DISTRITO 8 - SÃO FRANCISCO",
+      "populacao": 717,
+      "domicilios": 315
+    },
+    "VILA RIOD": {
+      "nome": "VILA RIOD",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 2939,
+      "domicilios": 1130
+    },
+    "VILA ROSEANA SARNEY": {
+      "nome": "VILA ROSEANA SARNEY",
+      "distrito": "DISTRITO 6 - TIRIRICAL",
+      "populacao": 267,
+      "domicilios": 88
+    },
+    "VILA SAMARA/INHAUMA": {
+      "nome": "VILA SAMARA/INHAUMA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 4062,
+      "domicilios": 1345
+    },
+    "VILA SANTANA": {
+      "nome": "VILA SANTANA",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 646,
+      "domicilios": 223
+    },
+    "VILA SAO JOAO": {
+      "nome": "VILA SAO JOAO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 606,
+      "domicilios": 216
+    },
+    "VILA SAO LUIS": {
+      "nome": "VILA SAO LUIS",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 6036,
+      "domicilios": 2234
+    },
+    "VILA SAO SEBASTIAO": {
+      "nome": "VILA SAO SEBASTIAO",
+      "distrito": "DISTRITO 3 - COROADINHO",
+      "populacao": 2888,
+      "domicilios": 995
+    },
+    "VILA SARNEY": {
+      "nome": "VILA SARNEY",
+      "distrito": "DISTRITO 7 - VILA ESPERANÇA",
+      "populacao": 2630,
+      "domicilios": 921
+    },
+    "VILA VERDE": {
+      "nome": "VILA VERDE",
+      "distrito": "DISTRITO 2 - ITAQUI-BACANGA",
+      "populacao": 1054,
+      "domicilios": 394
+    },
+    "VILA VITORIA": {
+      "nome": "VILA VITORIA",
+      "distrito": "DISTRITO 9 - CIDADE OPERÁRIA",
+      "populacao": 1681,
+      "domicilios": 669
+    },
+    "VIVENDAS DO TURU": {
+      "nome": "VIVENDAS DO TURU",
+      "distrito": "DISTRITO 4 - COHAB",
+      "populacao": 422,
+      "domicilios": 148
+    }
+  }
+}

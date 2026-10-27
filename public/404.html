@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vigilância Dengue São Luís - Redirecionando...</title>
+    <script>
+      // Single Page Application (SPA) redirect para GitHub Pages
+      // Redireciona qualquer rota de volta para a raiz da aplicação preservando query params e hash
+      (function() {
+        const pathSegments = window.location.pathname.split('/').filter(Boolean);
+        // Se o site estiver em https://usuario.github.io/nome-do-repositorio/
+        // o primeiro segmento é o nome do repositório
+        const isUserSite = window.location.hostname.endsWith('github.io');
+        let basePath = '/';
+        if (isUserSite && pathSegments.length > 0) {
+          basePath = '/' + pathSegments[0] + '/';
+        }
+        window.location.replace(basePath + window.location.search + window.location.hash);
+      })();
+    </script>
+  </head>
+  <body style="font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #0f172a; color: #94a3b8;">
+    <div style="text-align: center;">
+      <h2 style="color: #f1f5f9; margin-bottom: 8px;">Carregando painel epidemiológico...</h2>
+      <p>Redirecionando para a página principal...</p>
+    </div>
+  </body>
+</html>

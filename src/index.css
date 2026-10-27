@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+/* Ajustes visuais para o Leaflet e Tooltips personalizados */
+.leaflet-container {
+  font-family: inherit;
+  background-color: #020617 !important;
+}
+
+.leaflet-custom-tooltip {
+  background: rgba(15, 23, 42, 0.95) !important;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(51, 65, 85, 0.8) !important;
+  color: #f8fafc !important;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 0.75rem !important;
+  padding: 0 !important;
+}
+
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+  border-top-color: rgba(15, 23, 42, 0.95) !important;
+}
+
+/* Customizar os botões de zoom do Leaflet */
+.leaflet-bar {
+  border: none !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4) !important;
+  border-radius: 0.75rem !important;
+  overflow: hidden;
+}
+
+.leaflet-bar a {
+  background-color: rgba(15, 23, 42, 0.9) !important;
+  color: #f1f5f9 !important;
+  border-bottom: 1px solid rgba(51, 65, 85, 0.6) !important;
+  backdrop-filter: blur(8px);
+  width: 32px !important;
+  height: 32px !important;
+  line-height: 32px !important;
+  transition: all 0.15s ease-in-out;
+}
+
+.leaflet-bar a:hover {
+  background-color: rgba(30, 41, 59, 1) !important;
+  color: #38bdf8 !important;
+}
+
+.leaflet-bar a:last-child {
+  border-bottom: none !important;
+}
+
+/* Barra de rolagem personalizada */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(51, 65, 85, 0.8);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 1);
+}
+

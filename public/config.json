@@ -1,0 +1,23 @@
+{
+  "googleSheets": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS602Jsfcp7xrV_E2jxidJUcLHBxamjixyLwQLCmYk-VgXutT72G2gb-2GcPDSfDcj9ZyIm3d48C0es/pub?output=csv",
+    "sheetName": "Página1",
+    "bairroColumn": "NM_BAIRRO_PROX",
+    "casosColumn": "N_CASOS",
+    "autoRefreshIntervalSeconds": 300
+  },
+  "mapa": {
+    "geojsonUrl": "./geojson/bairros_limpos.geojson",
+    "visualizacaoPadrao": "bairro",
+    "metricaPadrao": "incidencia",
+    "temaPadrao": "osm"
+  },
+  "_instrucoes": {
+    "url": "Cole aqui o link da sua planilha Google (compartilhada publicamente ou publicada na web)",
+    "sheetName": "Nome da aba/página selecionada da planilha (ex: 'Dados', 'Resumo', 'SE 14')",
+    "bairroColumn": "Nome da coluna que contém o nome dos bairros (padrão: 'NM_BAIRRO_PROX' ou 'NM_BAIRRO')",
+    "casosColumn": "Nome da coluna que contém a contagem de casos prováveis (padrão: 'N_CASOS')",
+    "autoRefreshIntervalSeconds": "Tempo em segundos para sincronização automática (300 = 5 minutos, 0 = desativado)",
+    "geojsonUrl": "Caminho ou URL da malha GeoJSON dos bairros de São Luís"
+  }
+}

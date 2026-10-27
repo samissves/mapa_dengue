@@ -1,0 +1,6 @@
+{
+  "name": "Vigilância Dengue São Luís - Mapa PWA",
+  "description": "Mapa interativo dos casos de dengue nos bairros de São Luís (MA). PWA com integração dinâmica ao Google Planilhas, GeoJSON e suporte a incorporação no Google Looker Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
