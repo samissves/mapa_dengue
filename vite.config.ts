@@ -12,7 +12,7 @@ export default defineConfig(() => {
       tailwindcss(),
       VitePWA({
         registerType: 'autoUpdate',
-        includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'icon.svg'],
+        includeAssets: ['favicon.ico', 'favicon-32x32.png', 'apple-touch-icon.png', 'og-image.jpg', 'og-image-square.jpg', 'logo-vigilancia.png'],
         manifest: {
           id: '/',
           name: 'Vigilância Dengue São Luís - Mapa PWA',

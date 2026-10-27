@@ -73,8 +73,12 @@ export const EpidemiologyHeader: React.FC<EpidemiologyHeaderProps> = ({
       <div className="px-3 sm:px-5 py-2.5 flex items-center justify-between gap-2 sm:gap-4 flex-wrap">
         {/* Identificação e Branding */}
         <div className="flex items-center gap-2.5">
-          <div className="relative flex items-center justify-center w-8 h-8 rounded-xl bg-gradient-to-br from-rose-600 to-red-800 text-white shadow-md shadow-rose-950/50">
-            <ShieldAlert className="w-4 h-4" />
+          <div className="relative flex items-center justify-center w-8 h-8 rounded-xl bg-white p-0.5 shadow-md shadow-slate-950/50 overflow-hidden border border-slate-700/80">
+            <img 
+              src="./logo-vigilancia.png" 
+              alt="Vigilância Epidemiológica" 
+              className="w-full h-full object-contain"
+            />
             <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 rounded-full bg-emerald-400 border-2 border-slate-900 animate-pulse" />
           </div>
 
